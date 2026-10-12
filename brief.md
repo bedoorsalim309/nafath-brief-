@@ -4,7 +4,10 @@
 *(Pending research update)*
 
 ## 2. AI Domain
-*(Pending research update)*
+* **Core Focus**: Designing scalable web applications and system architectures.
+* **Key Components**: Frontend/Backend decoupling, RESTful API integration, and automated testing pipelines.
+* **Implementation Strategy**: Continuous Integration and Continuous Deployment (CI/CD) to ensure reliable releases.
+
 
 ## 3. Mobile Domain
 *(Pending research update)*
